@@ -1,7 +1,7 @@
 # SQL Database Specialist
 
 
-<picture> <img align="left" src="[https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png]" width = 250px></picture>
+<picture> <img align="left" src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width = 250px></picture>
 
 Repositório criado no bootcamp DATA BASE SPECIALIST da DIO.
 Neste repositório armazeno os exercícios e desafios realizados durante a formação.
