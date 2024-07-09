@@ -10,10 +10,8 @@ Descrição da formação> Desenvolva suas habilidades com banco de dados, apren
 
 
 
-# Projeto - Personalizando o Banco de Dados com Índices e Procedures
 
-
-**Parte 1 – Criando índices em Banco de Dados**
+* Parte 1 – Criando índices em Banco de Dados *
 
 Criação de índices para consultas para o cenário de company com as perguntas (queries sql) para recuperar recuperação de informações. Sendo assim, dentro do script será criado os índices com base na consulta SQL.  
 
